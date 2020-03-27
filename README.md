@@ -1,4 +1,4 @@
-# MutualAid.World App
+# Resilience App
 
 See demo [here](https://mutualaidworld-frontend.herokuapp.com/)!
 
